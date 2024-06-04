@@ -1,4 +1,4 @@
-# SectionFifth Component
+# Assignment
 
 This project is a React-based web page component that showcases customer reviews in a carousel format. The web page is styled using Tailwind CSS and the reviews are fetched from an external API using Axios. The component is designed to be responsive, ensuring an optimal viewing experience across different device sizes. The project is deployed on Vercel for ease of access and demonstration.
 
